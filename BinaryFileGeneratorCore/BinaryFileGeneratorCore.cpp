@@ -84,7 +84,7 @@ int _tmain(int argc, _TCHAR* argv[])
 			break;
 		}
 	} 
-
+	printf("\n");
 
 	fclose(dataText);
 	fclose(binaryFile);
